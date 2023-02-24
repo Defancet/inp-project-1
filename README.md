@@ -1,0 +1,3 @@
+# Design of Computer Systems - 1. project Processor with a simple instruction set
+
+The aim of this project is to implement a VHDL processor that will be able to execute a program written in the extended version of the BrainF*ck language. Although the language uses only eight simple commands (instructions), it is a computationally complete set, with the help of which any algorithm can be implemented. Automated tests are available for basic verification of correct functions.
